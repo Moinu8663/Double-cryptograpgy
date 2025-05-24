@@ -25,13 +25,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/double-seed-encryption.git"
+    "url": "https://github.com/Moinu8663/Double-cryptograpgy"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/double-seed-encryption/issues"
+    "url": "https://github.com/Moinu8663/Double-cryptograpgy/issues"
   },
-  "homepage": "https://github.com/yourusername/double-seed-encryption#readme",
+  "homepage": "https://github.com/Moinu8663/Double-cryptograpgy#readme",
   "dependencies": {
-    "jose": "^6.0.11"
+    "jose": "^6.0.11",
+    "webcrypto-liner": "^1.4.3"
   }
 }
