@@ -1,0 +1,37 @@
+{
+  "name": "double-cryptograpgy",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "test": "node ./test/demo.js"
+  },
+  "keywords": [
+    "encryption",
+    "crypto",
+    "aes",
+    "hkdf",
+    "nodejs",
+    "typescript"
+  ],
+  "author": "Moinuddin",
+  "license": "MIT",
+  "description": "Double-layer AES encryption using two keys derived from a master key via HKDF.",
+  "devDependencies": {
+    "@types/node": "^22.15.21",
+    "typescript": "^5.8.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/double-seed-encryption.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/double-seed-encryption/issues"
+  },
+  "homepage": "https://github.com/yourusername/double-seed-encryption#readme",
+  "dependencies": {
+    "jose": "^6.0.11"
+  }
+}
