@@ -1,6 +1,6 @@
 {
   "name": "double-cryptograpgy",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "src/index.js",
   "types": "src/index.d.ts",
   "type": "module",
